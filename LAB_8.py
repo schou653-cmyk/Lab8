@@ -71,6 +71,7 @@ def task3_filter_data(df):
 
     return
 
+
 # TASK 3 WRITTEN QUESTIONS
 
 '''
